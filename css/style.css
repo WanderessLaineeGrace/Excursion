@@ -1,10 +1,22 @@
 <head>
 <style>
 
-
-* {
-  background-color: black;
+h1 {
+  font-family: Verdana ;
+  font-weight: normal;
+  font-size: 50px;
   text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  fontsize: 21px;
+  font-color: gray;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 </style>
